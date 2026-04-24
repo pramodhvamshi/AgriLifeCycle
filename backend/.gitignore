@@ -1,0 +1,6 @@
+node_modules/
+.env
+.DS_Store
+model/model.pkl
+model/crop_dataset.csv
+model/mandi_prices.csv

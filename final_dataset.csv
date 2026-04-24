@@ -1,0 +1,201 @@
+Crop,Week,Price
+Apple,apr_week1,11216.4
+Apple,apr_week2,11595.56
+Apple,feb_week1,9187.42
+Apple,feb_week2,9607.11
+Apple,feb_week3,10004.91
+Apple,feb_week4,10362.61
+Apple,mar_week1,11018.31
+Apple,mar_week2,10965.8
+Apple,mar_week3,11181.08
+Apple,mar_week4,11445.76
+Banana,apr_week1,2968.27
+Banana,apr_week2,2909.4
+Banana,feb_week1,2881.92
+Banana,feb_week2,2888.21
+Banana,feb_week3,2981.79
+Banana,feb_week4,3242.15
+Banana,mar_week1,3302.82
+Banana,mar_week2,3177.91
+Banana,mar_week3,3213.37
+Banana,mar_week4,3067.48
+Beans,apr_week1,4922.3
+Beans,apr_week2,5127.49
+Beans,feb_week1,4006.89
+Beans,feb_week2,4385.71
+Beans,feb_week3,4749.9
+Beans,feb_week4,3996.87
+Beans,mar_week1,4301.22
+Beans,mar_week2,5016.11
+Beans,mar_week3,4777.64
+Beans,mar_week4,4884.09
+Black Gram,apr_week1,8536.57
+Black Gram,apr_week2,8012.45
+Black Gram,feb_week1,7785.79
+Black Gram,feb_week2,7972.41
+Black Gram,feb_week3,7987.57
+Black Gram,feb_week4,7885.84
+Black Gram,mar_week1,7970.66
+Black Gram,mar_week2,7999.14
+Black Gram,mar_week3,10078.8
+Black Gram,mar_week4,8549.91
+Chickpea,apr_week1,6883.1
+Chickpea,apr_week2,6798.82
+Chickpea,feb_week1,6439.84
+Chickpea,feb_week2,6403.0
+Chickpea,feb_week3,6532.47
+Chickpea,feb_week4,6866.99
+Chickpea,mar_week1,6382.04
+Chickpea,mar_week2,6685.8
+Chickpea,mar_week3,6632.65
+Chickpea,mar_week4,6664.06
+Coconut,apr_week1,12647.65
+Coconut,apr_week2,12833.41
+Coconut,feb_week1,14205.78
+Coconut,feb_week2,9739.77
+Coconut,feb_week3,12753.83
+Coconut,feb_week4,13414.8
+Coconut,mar_week1,15834.65
+Coconut,mar_week2,12260.07
+Coconut,mar_week3,12645.79
+Coconut,mar_week4,12881.77
+Coffee,apr_week1,20366.57
+Coffee,apr_week2,20162.23
+Coffee,feb_week1,21756.09
+Coffee,feb_week2,21085.36
+Coffee,feb_week3,20921.22
+Coffee,feb_week4,20602.67
+Coffee,mar_week1,20377.23
+Coffee,mar_week2,20345.17
+Coffee,mar_week3,20215.64
+Coffee,mar_week4,20433.38
+Cotton,apr_week1,7702.48
+Cotton,apr_week2,7624.31
+Cotton,feb_week1,7505.17
+Cotton,feb_week2,7446.87
+Cotton,feb_week3,7283.92
+Cotton,feb_week4,7496.72
+Cotton,mar_week1,7352.92
+Cotton,mar_week2,7308.81
+Cotton,mar_week3,7302.25
+Cotton,mar_week4,7150.91
+Grapes,apr_week1,7874.57
+Grapes,apr_week2,8370.17
+Grapes,feb_week1,10379.28
+Grapes,feb_week2,10339.71
+Grapes,feb_week3,9335.95
+Grapes,feb_week4,9170.56
+Grapes,mar_week1,8739.83
+Grapes,mar_week2,8917.06
+Grapes,mar_week3,8334.34
+Grapes,mar_week4,8237.12
+Jute,apr_week1,10910.49
+Jute,apr_week2,10834.49
+Jute,feb_week1,9844.22
+Jute,feb_week2,10236.99
+Jute,feb_week3,10947.42
+Jute,feb_week4,10934.1
+Jute,mar_week1,10983.86
+Jute,mar_week2,10971.67
+Jute,mar_week3,10767.69
+Jute,mar_week4,10845.73
+Lentil,apr_week1,7988.56
+Lentil,apr_week2,7678.54
+Lentil,feb_week1,7288.73
+Lentil,feb_week2,7640.66
+Lentil,feb_week3,7552.53
+Lentil,feb_week4,7275.95
+Lentil,mar_week1,7660.04
+Lentil,mar_week2,7636.85
+Lentil,mar_week3,7666.28
+Lentil,mar_week4,8002.85
+Maize,apr_week1,1829.52
+Maize,apr_week2,1815.02
+Maize,feb_week1,1900.29
+Maize,feb_week2,1850.31
+Maize,feb_week3,1865.28
+Maize,feb_week4,1883.83
+Maize,mar_week1,1801.96
+Maize,mar_week2,1838.2
+Maize,mar_week3,1833.44
+Maize,mar_week4,1855.61
+Mango,apr_week1,9557.06
+Mango,apr_week2,8255.53
+Mango,feb_week1,8409.89
+Mango,feb_week2,12532.09
+Mango,feb_week3,7991.08
+Mango,feb_week4,7997.2
+Mango,mar_week1,11212.2
+Mango,mar_week2,10769.88
+Mango,mar_week3,10747.82
+Mango,mar_week4,9483.31
+Musk,apr_week1,2196.75
+Musk,apr_week2,2117.46
+Musk,feb_week1,2699.33
+Musk,feb_week2,2712.64
+Musk,feb_week3,2617.43
+Musk,feb_week4,2553.45
+Musk,mar_week1,2735.75
+Musk,mar_week2,2705.99
+Musk,mar_week3,2526.5
+Musk,mar_week4,2498.21
+Orange,apr_week1,7642.26
+Orange,apr_week2,8145.62
+Orange,feb_week1,6969.33
+Orange,feb_week2,6853.26
+Orange,feb_week3,6893.08
+Orange,feb_week4,6584.38
+Orange,mar_week1,6279.0
+Orange,mar_week2,6304.7
+Orange,mar_week3,6898.9
+Orange,mar_week4,7652.73
+Papaya,apr_week1,2596.21
+Papaya,apr_week2,2657.5
+Papaya,feb_week1,2421.14
+Papaya,feb_week2,2437.92
+Papaya,feb_week3,2517.35
+Papaya,feb_week4,2759.53
+Papaya,mar_week1,2727.66
+Papaya,mar_week2,2796.42
+Papaya,mar_week3,2717.73
+Papaya,mar_week4,2645.98
+Peas(Dry),apr_week1,4612.9
+Peas(Dry),apr_week2,4930.46
+Peas(Dry),feb_week1,5510.2
+Peas(Dry),feb_week2,5350.4
+Peas(Dry),feb_week3,5408.48
+Peas(Dry),feb_week4,5733.54
+Peas(Dry),mar_week1,5630.91
+Peas(Dry),mar_week2,5855.18
+Peas(Dry),mar_week3,5589.91
+Peas(Dry),mar_week4,5277.36
+Pomegranate,apr_week1,10191.89
+Pomegranate,apr_week2,10239.09
+Pomegranate,feb_week1,9799.01
+Pomegranate,feb_week2,9535.91
+Pomegranate,feb_week3,9790.7
+Pomegranate,feb_week4,10449.23
+Pomegranate,mar_week1,10623.07
+Pomegranate,mar_week2,10109.11
+Pomegranate,mar_week3,10047.05
+Pomegranate,mar_week4,10366.44
+Rice,apr_week1,4469.95
+Rice,apr_week2,4374.4
+Rice,feb_week1,4074.97
+Rice,feb_week2,4212.67
+Rice,feb_week3,4309.66
+Rice,feb_week4,4265.64
+Rice,mar_week1,4416.84
+Rice,mar_week2,4497.74
+Rice,mar_week3,4546.65
+Rice,mar_week4,4267.15
+Water Melon,apr_week1,1537.17
+Water Melon,apr_week2,1444.61
+Water Melon,feb_week1,2332.57
+Water Melon,feb_week2,2420.63
+Water Melon,feb_week3,2533.11
+Water Melon,feb_week4,2370.49
+Water Melon,mar_week1,2160.73
+Water Melon,mar_week2,1854.59
+Water Melon,mar_week3,1778.84
+Water Melon,mar_week4,1624.69
